@@ -25,7 +25,6 @@ const renderTravelList = (req, res, responseBody) => {
 }
 
 
-
 /* GET travel list view */
 const travelList = (req, res) => {
     const path = '/api/trips';
